@@ -1,2 +1,4 @@
-rafce
-18:16
+-rafce (Tự động render code)
+-npm run dev (chạy code ở dev)
+-npm run build + npm start (build code ra môi trường thật)
+
