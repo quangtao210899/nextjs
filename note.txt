@@ -2,3 +2,5 @@
 -npm run dev (chạy code ở dev)
 -npm run build + npm start (build code ra môi trường thật)
 
+Đọc tài liệu, figma dự án CBA-C3P
+vẽ diagram DB (đã vẽ xong, đang kiểm tra lại figma xem DB đã thỏa mãn yêu cầu)
